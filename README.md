@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/Hubch/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubch)](https://github.com/Hubch/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubch&show_icons=true&theme=tokyonight)
+![decription](https://img.shields.io/badge/tools-pycharm-green)
